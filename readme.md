@@ -1,14 +1,14 @@
 Repo containing my code whilst working through the Rust Book
 https://doc.rust-lang.org/book/title-page.html
 
-#Projects
-##hello_world
+# Projects
+## hello_world
 Simple hello world program
 
-##hello_cargo
+## hello_cargo
 Simple hello world program created using cargo
 
-##guessing_game
+## guessing_game
 Simple guessing game using rand crate
 
 # Cargo Commands
