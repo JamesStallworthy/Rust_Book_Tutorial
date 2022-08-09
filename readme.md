@@ -11,6 +11,9 @@ Simple hello world program created using cargo
 ## guessing_game
 Simple guessing game using rand crate
 
+## variables
+Project playing around with variable assignment in rust
+
 # Cargo Commands
 
 ## New Project
