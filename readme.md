@@ -14,6 +14,9 @@ Simple guessing game using rand crate
 ## variables
 Project playing around with variable assignment in rust
 
+## ownership
+Project exploring how ownership works in rust, including references
+
 # Cargo Commands
 
 ## New Project
